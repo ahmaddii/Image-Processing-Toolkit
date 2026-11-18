@@ -1,0 +1,8 @@
+Input : Camera Image
+task: Detect empty spaces from shelf
+decison: flag the empty shelf spaces
+
+if model.detect_empty_space(image):
+flag_shelf()
+else:
+ok
